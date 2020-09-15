@@ -1,0 +1,15 @@
+.navigation {
+    padding: var(--spacer) 0;
+  
+    background: var(--color-purple);
+  
+    text-align: center;
+  }
+  
+  .navigation__header {
+    margin: 0;
+    padding: 0;
+  
+    text-align: center;
+    font-size: 2rem;
+  }
